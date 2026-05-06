@@ -1,0 +1,876 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>nova</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260506230814P5IHE9</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260506230814NKLCYU</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>&quot;Mi profesión ideal&quot;</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Situación de Aprendizaje</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Irene Ruiz Postigo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Situación de aprendizaje &quot; Mi profesión ideal&quot;. Alumnado 4º ESO- FOPP.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>nova</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778101176296</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-moujj4d3-hun5ug9dl</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Introducción</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Introducción</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Introducción</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moujj4d3-hun5ug9dl</odePageId>
+      <odeBlockId>block-1777996807835-daosyyqj1</odeBlockId>
+      <blockName>¿Qué vamos a hacer?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moujj4d3-hun5ug9dl</odePageId>
+          <odeBlockId>block-1777996807835-daosyyqj1</odeBlockId>
+          <odeIdeviceId>idevice-1777996807832-zk7b5r76v</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><br /><strong>Centro de interés o temática:</strong> análisis de las diferentes opciones académicas y profesionales que el alumnado tiene al finalizar la Educación Secundaria Obligatoria, trazando su itinerario profesional.</p>
+<p><br /><strong>Nivel al que va dirigido:</strong> 4º ESO. </p>
+<p><br /><strong>Temporalización aproximada:</strong> 5 sesiones</p>
+<p><br /><strong>Materia o materias implicadas: </strong>Formación y orientación personal y profesional</p>
+<p><br /><strong>Idioma: </strong>español</p>
+<p><br /></p>
+<p><strong>Descripción general de lo que se pretende que el alumnado aprenda o trabaje: </strong></p>
+<p>En esta situación de aprendizaje vas a tener la oportunidad de pensar en tu futuro de una forma más real y personal. El objetivo es que descubras qué opciones tienes al terminar la ESO y que empieces a tomar decisiones con sentido.</p>
+<p style="text-align: justify;">Para ello, investigarás diferentes caminos que puedes seguir, como el Bachillerato, la Formación Profesional de grado medio, las enseñanzas artísticas o deportivas, o incluso la posibilidad de incorporarte al mundo laboral.</p>
+<p style="text-align: justify;">Pero no se trata solo de buscar información. También será importante que reflexiones sobre ti mismo/a: qué te gusta, en qué destacas, qué se te da bien o cómo te imaginas en el futuro. A partir de ahí, irás relacionando tus intereses con posibles profesiones y tomando decisiones poco a poco.</p>
+<p style="text-align: justify;">Como resultado final, crearás tu propio itinerario académico y profesional, donde explicarás qué camino quieres seguir, por qué lo has elegido y qué pasos tendrías que dar para llegar a tu “trabajo ideal”.</p>
+<p style="text-align: justify;">Con esta actividad se pretende que ganes autonomía, aprendas a tomar decisiones por ti mismo/a y te conozcas mejor, algo fundamental para tu futuro personal y profesional.</p>
+<p style="text-align: justify;"><strong>Licencias y seguridad</strong></p>
+<p style="text-align: justify;">A través del siguiente enlace podrás consultar las diferentes tipos de licencias y seguridad:</p>
+<p style="text-align: justify;">https://canva.link/nmuz605r7dzcxok</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777996807832-zk7b5r76v","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><br /><strong>Centro de interés o temática:</strong> análisis de las diferentes opciones académicas y profesionales que el alumnado tiene al finalizar la Educación Secundaria Obligatoria, trazando su itinerario profesional.</p>\n<p><br /><strong>Nivel al que va dirigido:</strong> 4º ESO. </p>\n<p><br /><strong>Temporalización aproximada:</strong> 5 sesiones</p>\n<p><br /><strong>Materia o materias implicadas: </strong>Formación y orientación personal y profesional</p>\n<p><br /><strong>Idioma: </strong>español</p>\n<p><br /></p>\n<p><strong>Descripción general de lo que se pretende que el alumnado aprenda o trabaje: </strong></p>\n<p>En esta situación de aprendizaje vas a tener la oportunidad de pensar en tu futuro de una forma más real y personal. El objetivo es que descubras qué opciones tienes al terminar la ESO y que empieces a tomar decisiones con sentido.</p>\n<p style=\"text-align: justify;\">Para ello, investigarás diferentes caminos que puedes seguir, como el Bachillerato, la Formación Profesional de grado medio, las enseñanzas artísticas o deportivas, o incluso la posibilidad de incorporarte al mundo laboral.</p>\n<p style=\"text-align: justify;\">Pero no se trata solo de buscar información. También será importante que reflexiones sobre ti mismo/a: qué te gusta, en qué destacas, qué se te da bien o cómo te imaginas en el futuro. A partir de ahí, irás relacionando tus intereses con posibles profesiones y tomando decisiones poco a poco.</p>\n<p style=\"text-align: justify;\">Como resultado final, crearás tu propio itinerario académico y profesional, donde explicarás qué camino quieres seguir, por qué lo has elegido y qué pasos tendrías que dar para llegar a tu “trabajo ideal”.</p>\n<p style=\"text-align: justify;\">Con esta actividad se pretende que ganes autonomía, aprendas a tomar decisiones por ti mismo/a y te conozcas mejor, algo fundamental para tu futuro personal y profesional.</p>\n<p style=\"text-align: justify;\"><strong>Licencias y seguridad</strong></p>\n<p style=\"text-align: justify;\">A través del siguiente enlace podrás consultar las diferentes tipos de licencias y seguridad:</p>\n<p style=\"text-align: justify;\">https://canva.link/nmuz605r7dzcxok</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moujj4d4-1p7jqxfn4</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Descripción del producto final</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción del producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción del producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moujj4d4-1p7jqxfn4</odePageId>
+      <odeBlockId>block-1777998909665-h51d6j27e</odeBlockId>
+      <blockName>Descripción del producto final y línea del tiempo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moujj4d4-1p7jqxfn4</odePageId>
+          <odeBlockId>block-1777998909665-h51d6j27e</odeBlockId>
+          <odeIdeviceId>idevice-1777998909663-mz85hf5d8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El producto final deberá ser un portfolio dónde se incluyan las diferentes actividades que vamos a trabajar en clase:</p>
+<ol>
+<li>IKIGAI</li>
+<li>
+<p>¿Qué puedo hacer? Análisis de las diferentes opciones que tiene el alumnado al terminar la ESO</p>
+</li>
+<li>El trabajo de mis sueños. Definir finalmente el trabajo ideal de cada alumno/a teniendo en cuenta los diferentes itinerarios formativos a los que puede tener acceso </li>
+<li>C.V. y carta de presentación</li>
+<li>Marca personal</li>
+</ol>
+<p><img src="{{context_path}}/content/resources/LÍNEA DEL TIEMPO.png" width="1470" height="827" alt="© 2026 [Irene Ruiz]. Licencia Creative Commons CC BY-NC-SA 4.0" /></p>
+<p>© 2026 [Irene Ruiz]. Licencia Creative Commons CC BY-NC-SA 4.0</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777998909663-mz85hf5d8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El producto final deberá ser un portfolio dónde se incluyan las diferentes actividades que vamos a trabajar en clase:</p>\n<ol>\n<li>IKIGAI</li>\n<li>\n<p>¿Qué puedo hacer? Análisis de las diferentes opciones que tiene el alumnado al terminar la ESO</p>\n</li>\n<li>El trabajo de mis sueños. Definir finalmente el trabajo ideal de cada alumno/a teniendo en cuenta los diferentes itinerarios formativos a los que puede tener acceso </li>\n<li>C.V. y carta de presentación</li>\n<li>Marca personal</li>\n</ol>\n<p><img src=\"{{context_path}}/content/resources/LÍNEA DEL TIEMPO.png\" width=\"1470\" height=\"827\" alt=\"© 2026 [Irene Ruiz]. Licencia Creative Commons CC BY-NC-SA 4.0\" /></p>\n<p>© 2026 [Irene Ruiz]. Licencia Creative Commons CC BY-NC-SA 4.0</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moujj4d5-q2syiutpo</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Herramientas de curación de contenido</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramientas de curación de contenido</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramientas de curación de contenido</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moujj4d5-q2syiutpo</odePageId>
+      <odeBlockId>block-1777999278362-16uqol2jh</odeBlockId>
+      <blockName>Curación de contenidos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moujj4d5-q2syiutpo</odePageId>
+          <odeBlockId>block-1777999278362-16uqol2jh</odeBlockId>
+          <odeIdeviceId>idevice-1777999278358-2obodau66</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>HERRAMIENTA 1:</strong></p>
+<p>He seleccionado la herramienta Padlet, ya que la he trabajado con mis alumnos anteriormente para hacer ciertas actividades.  Para el proyecto, lo utilizaría como herramienta de organización, de tal forma que el alumnado siguiera una metodología similar a Kanban para llevar un seguimiento de su proyecto:</p>
+<p><a href="https://padlet.com/ireneruizpostigo/mi-padlet-supremo-fsz3a775mtjamkia">https://padlet.com/ireneruizpostigo/mi-padlet-supremo-fsz3a775mtjamkia</a></p>
+<p><strong>HERRAMIENTA 2: </strong></p>
+<p><strong><img src="{{context_path}}/content/resources/Captura de pantalla 2026-05-05 a las 18.43.57.png" width="1160" height="695" alt="" /></strong></p>
+<p>© 2026 [Irene Ruiz]. Licencia Creative Commons CC BY-NC-SA 4.0</p>
+<p><a href="https://www.symbaloo.com/shared/AAAAAfxXqNgAA41-5EPt0A==" title="">https://www.symbaloo.com/shared/AAAAAfxXqNgAA41-5EPt0A==</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777999278358-2obodau66","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>HERRAMIENTA 1:</strong></p>\n<p>He seleccionado la herramienta Padlet, ya que la he trabajado con mis alumnos anteriormente para hacer ciertas actividades.  Para el proyecto, lo utilizaría como herramienta de organización, de tal forma que el alumnado siguiera una metodología similar a Kanban para llevar un seguimiento de su proyecto:</p>\n<p><a href=\"https://padlet.com/ireneruizpostigo/mi-padlet-supremo-fsz3a775mtjamkia\">https://padlet.com/ireneruizpostigo/mi-padlet-supremo-fsz3a775mtjamkia</a></p>\n<p><strong>HERRAMIENTA 2: </strong></p>\n<p><strong><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-05-05 a las 18.43.57.png\" width=\"1160\" height=\"695\" alt=\"\" /></strong></p>\n<p>© 2026 [Irene Ruiz]. Licencia Creative Commons CC BY-NC-SA 4.0</p>\n<p><a href=\"https://www.symbaloo.com/shared/AAAAAfxXqNgAA41-5EPt0A==\" title=\"\">https://www.symbaloo.com/shared/AAAAAfxXqNgAA41-5EPt0A==</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moujj4d5-dqojv1ojp</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Tareas y criterios de evaluación</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tareas y criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tareas y criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Tareas y criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moujj4d5-dqojv1ojp</odePageId>
+      <odeBlockId>block-1777999705621-gjstbj982</odeBlockId>
+      <blockName>Tareas y C.E.</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moujj4d5-dqojv1ojp</odePageId>
+          <odeBlockId>block-1777999705621-gjstbj982</odeBlockId>
+          <odeIdeviceId>idevice-1777999705619-8us2ixe31</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/Captura de pantalla 2026-05-05 a las 18.51.39.png" width="855" height="330" alt="" /><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777999705619-8us2ixe31","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-05-05 a las 18.51.39.png\" width=\"855\" height=\"330\" alt=\"\" /><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moujj4d5-nbxkk2nt0</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moujj4d5-nbxkk2nt0</odePageId>
+      <odeBlockId>block-1778000651481-dhzhw0pny</odeBlockId>
+      <blockName>Instrumentos de evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moujj4d5-nbxkk2nt0</odePageId>
+          <odeBlockId>block-1778000651481-dhzhw0pny</odeBlockId>
+          <odeIdeviceId>idevice-1778000651474-nk7vcccgj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="{{context_path}}/content/resources/módulo 8 (2).pdf" title="Instrumentos de evaluación [pdf - 96525 B]">Instrumentos de evaluación</a><span class="exe-link-data file-size">(pdf - 96525 <abbr title="Bytes">B</abbr>)</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778000651474-nk7vcccgj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"{{context_path}}/content/resources/módulo 8 (2).pdf\" title=\"Instrumentos de evaluación [pdf - 96525 B]\">Instrumentos de evaluación</a><span class=\"exe-link-data file-size\">(pdf - 96525 <abbr title=\"Bytes\">B</abbr>)</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moujj4d6-7mwmpa417</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moujj4d6-7mwmpa417</odePageId>
+      <odeBlockId>block-1778001628142-jtv6ig2t3</odeBlockId>
+      <blockName>Relación entre tareas y C.E.</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moujj4d6-7mwmpa417</odePageId>
+          <odeBlockId>block-1778001628142-jtv6ig2t3</odeBlockId>
+          <odeIdeviceId>idevice-1778001628135-q1z4ly18t</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://docs.google.com/document/d/1Iupeb5XwkdW1BaJPccqDI4S6pkbRRU0QJSfGDep26Cc/edit?usp=sharing" title="">https://docs.google.com/document/d/1Iupeb5XwkdW1BaJPccqDI4S6pkbRRU0QJSfGDep26Cc/edit?usp=sharing</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778001628135-q1z4ly18t","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://docs.google.com/document/d/1Iupeb5XwkdW1BaJPccqDI4S6pkbRRU0QJSfGDep26Cc/edit?usp=sharing\" title=\"\">https://docs.google.com/document/d/1Iupeb5XwkdW1BaJPccqDI4S6pkbRRU0QJSfGDep26Cc/edit?usp=sharing</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moujj4d6-gx34lmino</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Nodo final de créditos</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Nodo final de créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Nodo final de créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Nodo final de créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moujj4d6-gx34lmino</odePageId>
+      <odeBlockId>block-1778001353303-dosoafa2k</odeBlockId>
+      <blockName>Nodo final de créditos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moujj4d6-gx34lmino</odePageId>
+          <odeBlockId>block-1778001353303-dosoafa2k</odeBlockId>
+          <odeIdeviceId>idevice-1778001353302-lr548o7vo</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Autoría: Irene Ruiz<br />Descripción: Producto final para Formación y Orientación Personal y Profesional<br />Licencia: CC BY-NC-SA 4.0</p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778001353302-lr548o7vo","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Autoría: Irene Ruiz<br />Descripción: Producto final para Formación y Orientación Personal y Profesional<br />Licencia: CC BY-NC-SA 4.0</p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moujj4d6-gx34lmino</odePageId>
+      <odeBlockId>block-1778055524048-uv75t0tgc</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moujj4d6-gx34lmino</odePageId>
+          <odeBlockId>block-1778055524048-uv75t0tgc</odeBlockId>
+          <odeIdeviceId>idevice-1778055524045-d67290qex</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">"Mi profesión ideal"</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Situación de aprendizaje " Mi profesión ideal". Alumnado 4º ESO- FOPP.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Irene Ruiz Postigo</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
